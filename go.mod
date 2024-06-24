@@ -1,3 +1,3 @@
-module concurrency
+module building-h2o
 
-go 1.22
+go 1.22.4
