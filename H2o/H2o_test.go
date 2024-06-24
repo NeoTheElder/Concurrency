@@ -1,4 +1,4 @@
-package main
+package H2O
 
 import (
 	"strings"
